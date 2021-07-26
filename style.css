@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(46, 8, 82);
+} 
+.bodyimg{
+    background-image: url('project 50 img.png');
+    background-size: cover;
+}
+.grid {
+     display:flex;
+     justify-content: space-between
+}
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px
+}
